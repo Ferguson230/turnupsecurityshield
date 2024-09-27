@@ -8,4 +8,4 @@
 Our mission is to halt attacks in real-time.
 
 # Installing
- `**git clone https://github.com/Ferguson230/turnupsecurityshield**` or this repository, `**cd turnupsecurityshield**`. Run `**make**`. Run `**make uninstall**` if you wish to uninstall this later.
+ `git clone https://github.com/Ferguson230/turnupsecurityshield` or this repository, `cd turnupsecurityshield`. Run `make`. Run `make uninstall` if you wish to uninstall this later.
